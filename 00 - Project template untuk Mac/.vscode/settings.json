@@ -1,8 +1,8 @@
 {
-    // "editor.fontSize": 18,
-    // "window.zoomLevel": 0.5,
-    // "workbench.colorTheme": "Atom One Dark",
-    // "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
     "files.associations": {
         "iostream": "cpp",
         "__bit_reference": "cpp",
