@@ -1,0 +1,6 @@
+mario 123458 manajemen
+ucup 123456 teknik
+otong 123459 memasak
+rini 123459 farmasi
+roni 123451 kimia
+faqihza 111111 mesin
