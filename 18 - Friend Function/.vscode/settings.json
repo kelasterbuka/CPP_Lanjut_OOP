@@ -4,7 +4,7 @@
     "terminal.integrated.fontSize": 18,
     "window.zoomLevel": 1,
     "editor.tabSize": 4,
-    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorTheme": "One Dark Pro",
     "workbench.iconTheme": "vscode-icons",
     "files.associations": {
         "iostream": "cpp",
